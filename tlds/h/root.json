@@ -6,7 +6,7 @@
         {
             "selector": "(^|\\.)v6\\.h$",
             "records" : [],
-            "targets" : ["private/ri.json"]
+            "targets" : ["private/v6-h.json"]
         },
     ]
 }
