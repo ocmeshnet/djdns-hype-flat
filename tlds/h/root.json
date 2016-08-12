@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "about": "The DJDNS document for the .h TLD."
+    },
+    "branches": [
+        {
+            "selector": "(^|\\.)v6\\.h$",
+            "records" : [],
+            "targets" : ["private/ri.json"]
+        },
+    ]
+}
