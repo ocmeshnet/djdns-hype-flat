@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "authority": "https://github.com/kylerschin",
+        "contact": "GlitchedPixels on HypeIRC, or @kylerschin on Github",
+        "about": "GlitchedPixels's DJDNS domains",
+        "policy": "Private"
+    },
+    "branches": [
+        {
+            "selector": "^v6\\.h$",
+            "records" : [
+                {
+                    "domain_name": "v6.h",
+                    "rtype" : "AAAA",
+                    "rdata": "fc3f:bc82:a104:8933:ba0f:2d2c:de82:966",
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
